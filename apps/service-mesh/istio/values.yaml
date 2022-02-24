@@ -1,0 +1,7 @@
+base:
+  global:
+    istioNamespace: service-mesh-shared-test
+
+istiod:
+  global:
+    istioNamespace: service-mesh-shared-test
