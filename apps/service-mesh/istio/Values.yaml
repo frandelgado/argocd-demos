@@ -6,7 +6,7 @@ global:
   imagePullSecrets: []
 
   # Used to locate istiod.
-  istioNamespace: ervice-mesh-shared-test
+  istioNamespace: service-mesh-shared-test
 
   istiod:
     enableAnalysis: false
